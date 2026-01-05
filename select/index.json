@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "君の話 (エヴォリューションMIX)",
+  "base_artist": "SUKIMASWITCH",
+  "createdAt": "2026-01-05T08:19:42.411099Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "君の話 ～エヴォリューションMix～",
+      "artist": "スキマスイッチ",
+      "has_synced": false,
+      "path": "select/01_君の話_~エヴォリューションMix~_スキマスイッチ.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "君の話 - エヴォリューションMIX",
+      "artist": "Sukima Switch",
+      "has_synced": true,
+      "path": "select/02_君の話_-_エヴォリューションMIX_Sukima_Switch.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "君の話 (エヴォリューションMIX)",
+      "artist": "Sukimaswitch",
+      "has_synced": true,
+      "path": "select/03_君の話_(エヴォリューションMIX)_Sukimaswitch.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "君の話 ～エヴォリューションMix～",
+      "artist": "スキマスイッチ",
+      "has_synced": false,
+      "path": "select/pl_01_君の話_~エヴォリューションMix~_スキマスイッチ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "君の話 ～エヴォリューションMix～",
+      "artist": "スキマスイッチ",
+      "has_synced": false,
+      "path": "select/pl_02_君の話_~エヴォリューションMix~_スキマスイッチ.txt"
+    }
+  ]
+}
